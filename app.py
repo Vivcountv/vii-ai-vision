@@ -9,7 +9,7 @@ from datetime import datetime
 
 NAMA_AI = "Vii"
 MODEL_NAME = "Vision-1"
-OLLAMA_URL = "http://localhost:11434/api/chat"
+OLLAMA_URL = "https://paralegal-slather-penny.ngrok-free.dev/"
 
 DESKRIPSI_SISTEM = (
     f"Anda adalah {NAMA_AI}, asisten AI yang sangat cerdas, ramah, "
